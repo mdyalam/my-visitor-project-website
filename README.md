@@ -5,8 +5,8 @@
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/nabil-repo/visitor-management-web
-   cd visitor-management
+   git clone https://github.com/mdyalam/my-visitor-project-website
+   cd my-visitor-project-website
    ```
 2. **Install dependencies:**
    ```sh
